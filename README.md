@@ -1,1 +1,1 @@
-Hello Sino Console
+Hello, Hexlet! How are you?
